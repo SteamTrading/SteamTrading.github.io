@@ -2,7 +2,7 @@
 <head>
 <meta charset="utf-8" />
 <style>
-body { background: url(https://i.ibb.co/Lp1NrMf/image.jpg); }
+body { background: url(https://i.ibb.co/zPXYSgp/s.jpg); }
 </style>
 </head>
 <body>
