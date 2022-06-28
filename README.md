@@ -7,17 +7,6 @@ body { background: url(https://i.ibb.co/zPGTQXf/s.jpg); }
 </head>
 <body>
 
-<table
-bgcolor="#006400"
-width="80%"
-height="100%"
-border="1"
-cellpadding="10"
-style="width:80%; border-radius:10px;">
-<tr>
-
-
-  
 </td>
 <h2>Steam1</h2>
 <p style="text-indent:20px">В работе...</p>
