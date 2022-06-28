@@ -7,7 +7,7 @@ body { background: url(https://i.ibb.co/3ByCFf8/s.jpg); }
 </head>
 <body>
 
-<h2><p style="text-indent:20px">TETXTXTXTTXTXTXTXTXTXTXTXTXTXTXTT >
+<h2><p style="text-indent:20px">TETXTXTXTTXTXTXTXTXTXTXTXTXTXTXTT
 <a href="https://vk.com/id0">
 <span style="margin-left:10px;">steamcommunity.com - наебалово :)</span></a>
 <br></p></h2>
