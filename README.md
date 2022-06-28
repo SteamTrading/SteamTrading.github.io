@@ -2,7 +2,7 @@
 <head>
 <meta charset="utf-8" />
 <style>
-body { background: url(https://i.ibb.co/zPXYSgp/s.jpg); }
+body { background: url(https://i.ibb.co/zPGTQXf/s.jpg); }
 </style>
 </head>
 <body>
@@ -15,7 +15,7 @@ border="1"
 cellpadding="10"
 style="width:80%; border-radius:10px;">
 <tr>
-<td bgcolor="#006400" align="center">
+
 
   
 </td>
@@ -33,4 +33,4 @@ style="width:80%; border-radius:10px;">
 <br></p>
 
 <!--Создаём строку с дополнительной информацией-->
- <img src="https://i.ibb.co/m9kn36r/phto.jpg">
+ <img src="">
