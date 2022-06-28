@@ -7,9 +7,9 @@ body { background: url(https://i.ibb.co/zPGTQXf/s.jpg); }
 </head>
 <body>
 
-<h2><p>
+<h2><p><p style="text-indent:20px">TETXTXTXTTXTXTXTXTXTXTXTXTXTXTXTT</p>
 <a href="https://vk.com/id0">
-<span style="margin-left:10px;">Textxtxtxtxtxtxtxt x tt x xtt xxt txtx tx tx tx txtx   steamcommunity.com - наебалово :)</span></a>
+<span style="margin-left:10px;">steamcommunity.com - наебалово :)</span></a>
 <br></p></h2>
 <p style="text-indent:20px">© Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.
 Some geospatial data on this website is provided by geonames.org.</p>
