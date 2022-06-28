@@ -17,8 +17,3 @@ Some geospatial data on this website is provided by geonames.org.</p>
 
 <!--Создаём ячейку сайдбара-->
 <td bgcolor="#008000">
-<h3>Контакты:</h3>
-<p>
-<a href="https://vk.com/id0">
-<span style="margin-left:10px;">Ссылка для реальных пацанов</span></a>
-<br></p>
