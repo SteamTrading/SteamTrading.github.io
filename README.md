@@ -2,7 +2,7 @@
 <head>
 <meta charset="utf-8" />
 <style>
-body { background: url(https://i.ibb.co/3ByCFf8/s.jpg); }
+body { background: url(https://i.ibb.co/vJSnp1f/s.jpg); }
 </style>
 </head>
 <body>
@@ -13,7 +13,3 @@ body { background: url(https://i.ibb.co/3ByCFf8/s.jpg); }
 <br></p></h2>
 <p style="text-indent:20px">© Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.
 Some geospatial data on this website is provided by geonames.org.</p>
-<!--Закрываем ячейку-->
-
-<!--Создаём ячейку сайдбара-->
-<td bgcolor="#008000">
