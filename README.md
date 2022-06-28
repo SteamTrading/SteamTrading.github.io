@@ -19,16 +19,11 @@ style="width:80%; border-radius:10px;">
 
   
 </td>
-<!--ОСНОВНОЙ КОНТЕНТ-->
 <h2>Steam1</h2>
-  <h2>Steam2</h2>
-  <h2>Steam3</h2>
 <p style="text-indent:20px">В работе...</p>
 <!--Закрываем ячейку-->
 
-<!--САЙДБАР-->
 <!--Создаём ячейку сайдбара-->
-  
 <td bgcolor="#008000">
 <h3>Контакты:</h3>
 <p>
@@ -38,4 +33,4 @@ style="width:80%; border-radius:10px;">
 <br></p>
 
 <!--Создаём строку с дополнительной информацией-->
- <img src="https://i.ibb.co/m9kn36r/photo.jpg">
+ <img src="https://i.ibb.co/m9kn36r/phto.jpg">
